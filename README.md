@@ -14,8 +14,6 @@
 
 ###
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/qJzZ4APiDZQuJDY7vh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/chill-guy-new-character-qJzZ4APiDZQuJDY7vh">via GIPHY</a></p>
-
 ###
 
 <div align="left">
@@ -26,8 +24,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MIKE-WAZOVSKI/MIKE-WAZOVSKI/output/snake.svg" alt="Snake animation" />
 
 ###
